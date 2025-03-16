@@ -1,4 +1,4 @@
 .env
 __pycache__/
-reports/
-data/
+!data/.gitkeep
+!reports/.gitkeep

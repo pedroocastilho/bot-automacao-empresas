@@ -41,7 +41,7 @@ bot-automacao-empresas/ │── data/ # Base de dados CSV
 Se ainda não tem o código, faça o clone do repositório:
 
 ```bash
-git clone https://github.com/seuusuario/bot-automacao-empresas.git
+git clone https://github.com/pedroocastilho/bot-automacao-empresas
 cd bot-automacao-empresas
 
 2️⃣ Criar o Ambiente Virtual (Opcional, mas Recomendado)
@@ -92,5 +92,5 @@ Este projeto é licenciado sob a MIT License.
 Feito por Pedro Castilho
 📧 Contato: pedrocastilho15@hotmail.com.br
 🔗 LinkedIn: https://www.linkedin.com/in/pedro-castilho-b03120356/
-🔗 GitHub: https://github.com/pepe1528
+🔗 GitHub: https://github.com/pedroocastilho
 
